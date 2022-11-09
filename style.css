@@ -1,5 +1,5 @@
 h1{
-	color: rgb(84, 115, 138);
+	color: rgb(155, 5, 32);
 	font-size:50px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:lighter;
@@ -8,7 +8,7 @@ h1{
 
 h2{
 	font-weight:bolder;
-	color: rgb(84, 115, 138);
+	color: rgb(221, 2, 44);
 	font-size:30px;
 	font-family: 'Open Sans', sans-serif;
 	text-align:center;
@@ -49,7 +49,7 @@ a:hover {
 
 h3 {
 	font-weight:bolder;
-	color: rgb(84, 115, 138);
+	color: rgb(212, 113, 119);
 	font-size:18px;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -80,7 +80,7 @@ form {
 
 .banner {
   /* 1. Set a background image */
-  background-image: url(https://www.louislegrand.fr/wp-content/uploads/2019/08/D14D9107-2048x1365.jpg);   
+  background-image: url(https://static.actu.fr/uploads/2021/07/adobestock-214566465.jpeg);   
   /* 2. Make the background image cover the banner div */
 	background-size: cover;     
   /* 3. Center the image */
